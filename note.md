@@ -7,3 +7,5 @@
 7th npm install bootstrap
 8th we can use <Navi/> instead if <Navi></Navi>
 8th we can use <CategoryList/> instead if <CategoryList></CategoryList> 
+9th Using props set title and create the constructor in CategoryList.js
+we do use {} to write JS in HTML this is JSX
